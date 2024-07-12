@@ -1,2 +1,2 @@
-# Fruta-Fruto
-Boas praticas em CSS
+# arquitetura-css
+curso de arquitetura da Alura. 
